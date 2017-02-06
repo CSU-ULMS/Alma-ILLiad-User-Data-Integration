@@ -1,2 +1,2 @@
 # alma-illiad-userdata
-Pulls userdata from Alma for use in creating and updating ILLiad user accounts.
+Pulls user data from Alma via the [User API](https://developers.exlibrisgroup.com/alma/apis/users) for use in creating and updating ILLiad user accounts.
